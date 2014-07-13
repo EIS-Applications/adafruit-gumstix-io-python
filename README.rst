@@ -2,11 +2,9 @@
 
 **The PWM Duty Cycle range was reversed in 0.0.15 from 100(off)-0(on) to 0(off)-100(on).  Please update your code accordingly.**
 
-**Adafruit's BeagleBone IO Python Library**
+**Adafruit's Gumstix IO Python Library**
 
-This is a set of Python tools to allow GPIO, PWM, and ADC access on the BeagleBone using the Linux 3.8 Kernel and above (latest releases).
-
-It has been tested on the 5-20 and 6-6 Angstrom image on the BeagleBone Black.
+This is a set of Python tools to allow GPIO, PWM, and ADC access on the Gumstix using the Linux 3.8 Kernel and above (latest releases).
 
 **Note: BBIO has been renamed to Adafruit_BBIO.**
 
